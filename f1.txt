@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 added by master
 updated by feature2
 another line added
 new line created
+=======
+added by master
+>>>>>>> b91af88 (updated f1)
